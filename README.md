@@ -19,6 +19,9 @@ They'll need to be 72x72.
 A good resource is this site: https://emojipedia.org/apple/
 
 ### Infer
+
+Note: the size of the image must be divisible by 36
+
 ```
 python train.py emoji_set mario.png
 ```
