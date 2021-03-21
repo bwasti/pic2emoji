@@ -24,3 +24,8 @@ python train.py emoji_set mario.png
 ```
 
 This will generate an image `mario.png.emoji.png`.
+
+### Contributions
+
+Happy to take PRs!
+However, this is a weekend project so I won't be actively maintaining it much.
