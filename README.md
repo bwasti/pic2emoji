@@ -1,5 +1,7 @@
 # pic2emoji
 
+For some context, read the [write-up](https://jott.live/markdown/pic2emoji).
+
 ![](https://i.imgur.com/wFFZ3ib.png)
 
 ### Download
